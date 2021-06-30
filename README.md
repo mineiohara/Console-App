@@ -1,5 +1,5 @@
 # Console App
-Use .NET Framework (C#) to develop console app
+Console app using .NET Framework (C#)
 
 OS: Windows10
 
