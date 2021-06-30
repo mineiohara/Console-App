@@ -1,0 +1,13 @@
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\bin\Debug\netcoreapp3.1\SayHello.exe
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\bin\Debug\netcoreapp3.1\SayHello.deps.json
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\bin\Debug\netcoreapp3.1\SayHello.runtimeconfig.json
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\bin\Debug\netcoreapp3.1\SayHello.runtimeconfig.dev.json
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\bin\Debug\netcoreapp3.1\SayHello.dll
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\bin\Debug\netcoreapp3.1\SayHello.pdb
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\obj\Debug\netcoreapp3.1\SayHello.csprojAssemblyReference.cache
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\obj\Debug\netcoreapp3.1\SayHello.AssemblyInfoInputs.cache
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\obj\Debug\netcoreapp3.1\SayHello.AssemblyInfo.cs
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\obj\Debug\netcoreapp3.1\SayHello.csproj.CoreCompileInputs.cache
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\obj\Debug\netcoreapp3.1\SayHello.dll
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\obj\Debug\netcoreapp3.1\SayHello.pdb
+C:\Users\minei\Desktop\Github\ConsoleApp\SayHello\SayHello\SayHello\obj\Debug\netcoreapp3.1\SayHello.genruntimeconfig.cache
