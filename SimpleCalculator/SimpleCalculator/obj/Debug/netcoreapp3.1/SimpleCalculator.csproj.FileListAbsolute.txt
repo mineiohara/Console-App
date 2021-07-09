@@ -1,0 +1,13 @@
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\Users\minei\Desktop\Github\Console-App\SimpleCalculator\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache

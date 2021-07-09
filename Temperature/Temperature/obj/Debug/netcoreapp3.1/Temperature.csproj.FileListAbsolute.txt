@@ -1,0 +1,12 @@
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfoInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfo.cs
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.exe
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.deps.json
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.json
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.dev.json
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\bin\Debug\netcoreapp3.1\Temperature.pdb
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.pdb
+C:\Users\minei\Desktop\Github\Console-App\Temperature\Temperature\obj\Debug\netcoreapp3.1\Temperature.genruntimeconfig.cache

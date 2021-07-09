@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minei\\Desktop\\Github\\Console-App\\SayHello\\SayHello\\SayHello\\SayHello.csproj",
+      "projectUniqueName": "C:\\Users\\minei\\Desktop\\Github\\Console-App\\SayHello\\SayHello\\SayHello.csproj",
       "projectName": "SayHello",
-      "projectPath": "C:\\Users\\minei\\Desktop\\Github\\Console-App\\SayHello\\SayHello\\SayHello\\SayHello.csproj",
+      "projectPath": "C:\\Users\\minei\\Desktop\\Github\\Console-App\\SayHello\\SayHello\\SayHello.csproj",
       "packagesPath": "C:\\Users\\minei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minei\\Desktop\\Github\\Console-App\\SayHello\\SayHello\\SayHello\\obj\\",
+      "outputPath": "C:\\Users\\minei\\Desktop\\Github\\Console-App\\SayHello\\SayHello\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

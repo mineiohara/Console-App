@@ -1,0 +1,12 @@
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.AssemblyInfoInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.AssemblyInfo.cs
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.csproj.CoreCompileInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.exe
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.deps.json
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.runtimeconfig.json
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.runtimeconfig.dev.json
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.dll
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\bin\Debug\netcoreapp3.1\GPA.pdb
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.dll
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.pdb
+C:\Users\minei\Desktop\Github\Console-App\GPA\GPA\obj\Debug\netcoreapp3.1\GPA.genruntimeconfig.cache
