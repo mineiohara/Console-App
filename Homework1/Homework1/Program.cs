@@ -16,7 +16,7 @@ namespace Homework1
 
             while (true)
             {
-                Console.WriteLine("=====BMI Calculator Menu=====\nPlease enther the number of menu.\n1:Calculate your BMI.\n2:Review recorded BMI.\n3:Exit Calculator.");
+                Console.WriteLine("=====BMI Calculator Menu=====\nPlease enter the number of menu.\n1:Calculate your BMI.\n2:Review recorded BMI.\n3:Exit Calculator.");
                 selectedMenu = int.Parse(Console.ReadLine());
 
                 switch (selectedMenu)
