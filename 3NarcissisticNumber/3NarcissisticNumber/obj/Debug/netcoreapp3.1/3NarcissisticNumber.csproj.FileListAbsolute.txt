@@ -1,0 +1,13 @@
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\obj\Debug\netcoreapp3.1\3NarcissisticNumber.csprojAssemblyReference.cache
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\obj\Debug\netcoreapp3.1\3NarcissisticNumber.AssemblyInfoInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\obj\Debug\netcoreapp3.1\3NarcissisticNumber.AssemblyInfo.cs
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\obj\Debug\netcoreapp3.1\3NarcissisticNumber.csproj.CoreCompileInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\bin\Debug\netcoreapp3.1\3NarcissisticNumber.exe
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\bin\Debug\netcoreapp3.1\3NarcissisticNumber.deps.json
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\bin\Debug\netcoreapp3.1\3NarcissisticNumber.runtimeconfig.json
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\bin\Debug\netcoreapp3.1\3NarcissisticNumber.runtimeconfig.dev.json
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\bin\Debug\netcoreapp3.1\3NarcissisticNumber.dll
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\bin\Debug\netcoreapp3.1\3NarcissisticNumber.pdb
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\obj\Debug\netcoreapp3.1\3NarcissisticNumber.dll
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\obj\Debug\netcoreapp3.1\3NarcissisticNumber.pdb
+C:\Users\minei\Desktop\Github\Console-App\3NarcissisticNumber\3NarcissisticNumber\obj\Debug\netcoreapp3.1\3NarcissisticNumber.genruntimeconfig.cache

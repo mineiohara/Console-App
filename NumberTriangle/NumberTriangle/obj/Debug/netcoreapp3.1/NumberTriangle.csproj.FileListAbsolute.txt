@@ -1,0 +1,13 @@
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\bin\Debug\netcoreapp3.1\NumberTriangle.exe
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\bin\Debug\netcoreapp3.1\NumberTriangle.deps.json
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\bin\Debug\netcoreapp3.1\NumberTriangle.runtimeconfig.json
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\bin\Debug\netcoreapp3.1\NumberTriangle.runtimeconfig.dev.json
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\bin\Debug\netcoreapp3.1\NumberTriangle.dll
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\bin\Debug\netcoreapp3.1\NumberTriangle.pdb
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\obj\Debug\netcoreapp3.1\NumberTriangle.csprojAssemblyReference.cache
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\obj\Debug\netcoreapp3.1\NumberTriangle.AssemblyInfoInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\obj\Debug\netcoreapp3.1\NumberTriangle.AssemblyInfo.cs
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\obj\Debug\netcoreapp3.1\NumberTriangle.csproj.CoreCompileInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\obj\Debug\netcoreapp3.1\NumberTriangle.dll
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\obj\Debug\netcoreapp3.1\NumberTriangle.pdb
+C:\Users\minei\Desktop\Github\Console-App\NumberTriangle\NumberTriangle\obj\Debug\netcoreapp3.1\NumberTriangle.genruntimeconfig.cache

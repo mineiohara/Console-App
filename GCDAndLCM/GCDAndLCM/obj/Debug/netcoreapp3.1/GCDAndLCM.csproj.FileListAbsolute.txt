@@ -1,0 +1,13 @@
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\bin\Debug\netcoreapp3.1\GCDAndLCM.exe
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\bin\Debug\netcoreapp3.1\GCDAndLCM.deps.json
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\bin\Debug\netcoreapp3.1\GCDAndLCM.runtimeconfig.json
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\bin\Debug\netcoreapp3.1\GCDAndLCM.runtimeconfig.dev.json
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\bin\Debug\netcoreapp3.1\GCDAndLCM.dll
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\bin\Debug\netcoreapp3.1\GCDAndLCM.pdb
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\obj\Debug\netcoreapp3.1\GCDAndLCM.csprojAssemblyReference.cache
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\obj\Debug\netcoreapp3.1\GCDAndLCM.AssemblyInfoInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\obj\Debug\netcoreapp3.1\GCDAndLCM.AssemblyInfo.cs
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\obj\Debug\netcoreapp3.1\GCDAndLCM.csproj.CoreCompileInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\obj\Debug\netcoreapp3.1\GCDAndLCM.dll
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\obj\Debug\netcoreapp3.1\GCDAndLCM.pdb
+C:\Users\minei\Desktop\Github\Console-App\GCDAndLCM\GCDAndLCM\obj\Debug\netcoreapp3.1\GCDAndLCM.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.exe
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.deps.json
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.json
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.dev.json
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.dll
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.pdb
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.csprojAssemblyReference.cache
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfoInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfo.cs
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.dll
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.pdb
+C:\Users\minei\Desktop\Github\Console-App\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.genruntimeconfig.cache
