@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E3C9112B-BE6D-470C-8F67-EBDA28018357}|Default">
+  <MonoDevelop.Ide.ItemProperties.PowerBillCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PowerBillCalculator/Program.cs">
+    <Files>
+      <File FileName="PowerBillCalculator/Program.cs" Line="20" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PowerBillCalculator" expanded="True">
+            <Node name="PowerBillCalculator" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/obj/Debug/netcoreapp3.1/PowerBillCalculator.csproj.AssemblyReference.cache
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/obj/Debug/netcoreapp3.1/PowerBillCalculator.AssemblyInfoInputs.cache
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/obj/Debug/netcoreapp3.1/PowerBillCalculator.AssemblyInfo.cs
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/obj/Debug/netcoreapp3.1/PowerBillCalculator.csproj.CoreCompileInputs.cache
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/bin/Debug/netcoreapp3.1/PowerBillCalculator.deps.json
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/bin/Debug/netcoreapp3.1/PowerBillCalculator.runtimeconfig.json
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/bin/Debug/netcoreapp3.1/PowerBillCalculator.runtimeconfig.dev.json
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/bin/Debug/netcoreapp3.1/PowerBillCalculator.dll
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/bin/Debug/netcoreapp3.1/PowerBillCalculator.pdb
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/obj/Debug/netcoreapp3.1/PowerBillCalculator.dll
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/obj/Debug/netcoreapp3.1/PowerBillCalculator.pdb
+/Users/justin/Desktop/Git/Console-App/PowerBillCalculator/PowerBillCalculator/obj/Debug/netcoreapp3.1/PowerBillCalculator.genruntimeconfig.cache
