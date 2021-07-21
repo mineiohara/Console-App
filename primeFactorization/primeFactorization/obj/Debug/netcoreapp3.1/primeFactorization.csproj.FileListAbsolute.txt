@@ -1,0 +1,12 @@
+/Users/justin/Projects/primeFactorization/primeFactorization/obj/Debug/netcoreapp3.1/primeFactorization.csproj.AssemblyReference.cache
+/Users/justin/Projects/primeFactorization/primeFactorization/obj/Debug/netcoreapp3.1/primeFactorization.AssemblyInfoInputs.cache
+/Users/justin/Projects/primeFactorization/primeFactorization/obj/Debug/netcoreapp3.1/primeFactorization.AssemblyInfo.cs
+/Users/justin/Projects/primeFactorization/primeFactorization/obj/Debug/netcoreapp3.1/primeFactorization.csproj.CoreCompileInputs.cache
+/Users/justin/Projects/primeFactorization/primeFactorization/bin/Debug/netcoreapp3.1/primeFactorization.deps.json
+/Users/justin/Projects/primeFactorization/primeFactorization/bin/Debug/netcoreapp3.1/primeFactorization.runtimeconfig.json
+/Users/justin/Projects/primeFactorization/primeFactorization/bin/Debug/netcoreapp3.1/primeFactorization.runtimeconfig.dev.json
+/Users/justin/Projects/primeFactorization/primeFactorization/bin/Debug/netcoreapp3.1/primeFactorization.dll
+/Users/justin/Projects/primeFactorization/primeFactorization/bin/Debug/netcoreapp3.1/primeFactorization.pdb
+/Users/justin/Projects/primeFactorization/primeFactorization/obj/Debug/netcoreapp3.1/primeFactorization.dll
+/Users/justin/Projects/primeFactorization/primeFactorization/obj/Debug/netcoreapp3.1/primeFactorization.pdb
+/Users/justin/Projects/primeFactorization/primeFactorization/obj/Debug/netcoreapp3.1/primeFactorization.genruntimeconfig.cache

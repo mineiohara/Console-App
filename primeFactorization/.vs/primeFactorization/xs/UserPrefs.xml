@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{336F98AD-5C7B-46AA-95E4-9E3B11F5164A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="primeFactorization/Program.cs">
+    <Files>
+      <File FileName="primeFactorization/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="primeFactorization" expanded="True">
+            <Node name="primeFactorization" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.primeFactorization PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
