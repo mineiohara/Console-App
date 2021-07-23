@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{27D776CC-1FCF-4037-8E87-827D754AF0EC}|Default">
+  <MonoDevelop.Ide.ItemProperties.BuffonNeedleSimulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuffonNeedleSimulation/Program.cs">
+    <Files>
+      <File FileName="BuffonNeedleSimulation/Program.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuffonNeedleSimulation" expanded="True">
+            <Node name="BuffonNeedleSimulation" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

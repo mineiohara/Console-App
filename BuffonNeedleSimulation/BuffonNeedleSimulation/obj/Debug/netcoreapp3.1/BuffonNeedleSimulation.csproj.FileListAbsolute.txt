@@ -1,0 +1,12 @@
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/bin/Debug/netcoreapp3.1/BuffonNeedleSimulation.deps.json
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/bin/Debug/netcoreapp3.1/BuffonNeedleSimulation.runtimeconfig.json
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/bin/Debug/netcoreapp3.1/BuffonNeedleSimulation.runtimeconfig.dev.json
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/bin/Debug/netcoreapp3.1/BuffonNeedleSimulation.dll
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/bin/Debug/netcoreapp3.1/BuffonNeedleSimulation.pdb
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/obj/Debug/netcoreapp3.1/BuffonNeedleSimulation.csproj.AssemblyReference.cache
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/obj/Debug/netcoreapp3.1/BuffonNeedleSimulation.AssemblyInfoInputs.cache
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/obj/Debug/netcoreapp3.1/BuffonNeedleSimulation.AssemblyInfo.cs
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/obj/Debug/netcoreapp3.1/BuffonNeedleSimulation.csproj.CoreCompileInputs.cache
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/obj/Debug/netcoreapp3.1/BuffonNeedleSimulation.dll
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/obj/Debug/netcoreapp3.1/BuffonNeedleSimulation.pdb
+/Users/justin/Desktop/Git/Console-App/BuffonNeedleSimulation/BuffonNeedleSimulation/obj/Debug/netcoreapp3.1/BuffonNeedleSimulation.genruntimeconfig.cache
