@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ramper\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ramper\\.nuget\\packages"
+    ]
+  }
+}

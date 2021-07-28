@@ -1,0 +1,13 @@
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\obj\Debug\netcoreapp3.1\DrinkBarMenu.csproj.AssemblyReference.cache
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\obj\Debug\netcoreapp3.1\DrinkBarMenu.AssemblyInfoInputs.cache
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\obj\Debug\netcoreapp3.1\DrinkBarMenu.AssemblyInfo.cs
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\obj\Debug\netcoreapp3.1\DrinkBarMenu.csproj.CoreCompileInputs.cache
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\bin\Debug\netcoreapp3.1\DrinkBarMenu.exe
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\bin\Debug\netcoreapp3.1\DrinkBarMenu.deps.json
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\bin\Debug\netcoreapp3.1\DrinkBarMenu.runtimeconfig.json
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\bin\Debug\netcoreapp3.1\DrinkBarMenu.runtimeconfig.dev.json
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\bin\Debug\netcoreapp3.1\DrinkBarMenu.dll
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\bin\Debug\netcoreapp3.1\DrinkBarMenu.pdb
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\obj\Debug\netcoreapp3.1\DrinkBarMenu.dll
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\obj\Debug\netcoreapp3.1\DrinkBarMenu.pdb
+C:\Users\Ramper\Console-App\DrinkBarMenu\DrinkBarMenu\obj\Debug\netcoreapp3.1\DrinkBarMenu.genruntimeconfig.cache
