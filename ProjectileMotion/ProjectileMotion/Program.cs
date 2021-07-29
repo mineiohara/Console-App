@@ -28,11 +28,15 @@ namespace ProjectileMotion
             }
 
             while (true){
-                screen[x, y] = ' ';
+                //screen[x, y] = ' ';
                 x = getHorizontalDistance(v0, time);
                 y = getVerticalDistance(g, time);
-                
-                if (x >= NX || y >= NY) break;
+
+                if (x >= NX || y >= NY)
+                {
+                    Console.WriteLine("Reach ground at {0}'s", time);
+                    break;
+                }
                 updateScreen(x, y, NX, NY, screen);
 
                 time += 1;
