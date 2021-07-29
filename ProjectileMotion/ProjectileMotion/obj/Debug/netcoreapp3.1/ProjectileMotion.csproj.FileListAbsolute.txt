@@ -1,0 +1,13 @@
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\obj\Debug\netcoreapp3.1\ProjectileMotion.csproj.AssemblyReference.cache
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\obj\Debug\netcoreapp3.1\ProjectileMotion.AssemblyInfoInputs.cache
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\obj\Debug\netcoreapp3.1\ProjectileMotion.AssemblyInfo.cs
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\obj\Debug\netcoreapp3.1\ProjectileMotion.csproj.CoreCompileInputs.cache
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\bin\Debug\netcoreapp3.1\ProjectileMotion.exe
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\bin\Debug\netcoreapp3.1\ProjectileMotion.deps.json
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\bin\Debug\netcoreapp3.1\ProjectileMotion.runtimeconfig.json
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\bin\Debug\netcoreapp3.1\ProjectileMotion.runtimeconfig.dev.json
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\bin\Debug\netcoreapp3.1\ProjectileMotion.dll
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\bin\Debug\netcoreapp3.1\ProjectileMotion.pdb
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\obj\Debug\netcoreapp3.1\ProjectileMotion.dll
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\obj\Debug\netcoreapp3.1\ProjectileMotion.pdb
+C:\Users\Ramper\Console-App\ProjectileMotion\ProjectileMotion\obj\Debug\netcoreapp3.1\ProjectileMotion.genruntimeconfig.cache
