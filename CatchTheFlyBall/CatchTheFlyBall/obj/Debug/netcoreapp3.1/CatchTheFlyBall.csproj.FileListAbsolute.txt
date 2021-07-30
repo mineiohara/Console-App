@@ -1,0 +1,13 @@
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\obj\Debug\netcoreapp3.1\CatchTheFlyBall.csproj.AssemblyReference.cache
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\obj\Debug\netcoreapp3.1\CatchTheFlyBall.AssemblyInfoInputs.cache
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\obj\Debug\netcoreapp3.1\CatchTheFlyBall.AssemblyInfo.cs
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\obj\Debug\netcoreapp3.1\CatchTheFlyBall.csproj.CoreCompileInputs.cache
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\bin\Debug\netcoreapp3.1\CatchTheFlyBall.exe
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\bin\Debug\netcoreapp3.1\CatchTheFlyBall.deps.json
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\bin\Debug\netcoreapp3.1\CatchTheFlyBall.runtimeconfig.json
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\bin\Debug\netcoreapp3.1\CatchTheFlyBall.runtimeconfig.dev.json
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\bin\Debug\netcoreapp3.1\CatchTheFlyBall.dll
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\bin\Debug\netcoreapp3.1\CatchTheFlyBall.pdb
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\obj\Debug\netcoreapp3.1\CatchTheFlyBall.dll
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\obj\Debug\netcoreapp3.1\CatchTheFlyBall.pdb
+C:\Users\Ramper\Console-App\CatchTheFlyBall\CatchTheFlyBall\obj\Debug\netcoreapp3.1\CatchTheFlyBall.genruntimeconfig.cache
