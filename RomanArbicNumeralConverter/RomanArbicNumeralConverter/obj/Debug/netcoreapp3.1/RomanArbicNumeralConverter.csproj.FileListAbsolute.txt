@@ -1,0 +1,13 @@
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\bin\Debug\netcoreapp3.1\RomanArbicNumeralConverter.exe
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\bin\Debug\netcoreapp3.1\RomanArbicNumeralConverter.deps.json
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\bin\Debug\netcoreapp3.1\RomanArbicNumeralConverter.runtimeconfig.json
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\bin\Debug\netcoreapp3.1\RomanArbicNumeralConverter.runtimeconfig.dev.json
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\bin\Debug\netcoreapp3.1\RomanArbicNumeralConverter.dll
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\bin\Debug\netcoreapp3.1\RomanArbicNumeralConverter.pdb
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\obj\Debug\netcoreapp3.1\RomanArbicNumeralConverter.csproj.AssemblyReference.cache
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\obj\Debug\netcoreapp3.1\RomanArbicNumeralConverter.AssemblyInfoInputs.cache
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\obj\Debug\netcoreapp3.1\RomanArbicNumeralConverter.AssemblyInfo.cs
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\obj\Debug\netcoreapp3.1\RomanArbicNumeralConverter.csproj.CoreCompileInputs.cache
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\obj\Debug\netcoreapp3.1\RomanArbicNumeralConverter.dll
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\obj\Debug\netcoreapp3.1\RomanArbicNumeralConverter.pdb
+C:\Users\Ramper\Console-App\RomanArbicNumeralConverter\RomanArbicNumeralConverter\obj\Debug\netcoreapp3.1\RomanArbicNumeralConverter.genruntimeconfig.cache
