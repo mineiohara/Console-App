@@ -34,7 +34,7 @@ namespace RomanArbicNumeralConverter
         {
             int checkedIndex = 0;
             int lastIndex = -1;
-            while (input.Length > checkedIndex + 1)
+            while (input.Length > checkedIndex)
             {
                 for(int i = 3; i > -1; i--)
                 {

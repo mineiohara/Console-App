@@ -1,0 +1,13 @@
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\netcoreapp3.1\RomanNumeralCalculator.csproj.AssemblyReference.cache
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\netcoreapp3.1\RomanNumeralCalculator.AssemblyInfoInputs.cache
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\netcoreapp3.1\RomanNumeralCalculator.AssemblyInfo.cs
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\netcoreapp3.1\RomanNumeralCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\netcoreapp3.1\RomanNumeralCalculator.exe
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\netcoreapp3.1\RomanNumeralCalculator.deps.json
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\netcoreapp3.1\RomanNumeralCalculator.runtimeconfig.json
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\netcoreapp3.1\RomanNumeralCalculator.runtimeconfig.dev.json
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\netcoreapp3.1\RomanNumeralCalculator.dll
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\bin\Debug\netcoreapp3.1\RomanNumeralCalculator.pdb
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\netcoreapp3.1\RomanNumeralCalculator.dll
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\netcoreapp3.1\RomanNumeralCalculator.pdb
+C:\Users\Ramper\Console-App\RomanNumeralCalculator\RomanNumeralCalculator\obj\Debug\netcoreapp3.1\RomanNumeralCalculator.genruntimeconfig.cache
