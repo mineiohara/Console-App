@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{30073047-FD53-4B16-85C5-8846B6639EB0}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="RomanArbicNumeralConverter/Program.cs">
     <Files>
-      <File FileName="RomanArbicNumeralConverter/Program.cs" Line="10" Column="25" />
+      <File FileName="RomanArbicNumeralConverter/Program.cs" Line="47" Column="74" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,6 +12,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
